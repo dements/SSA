@@ -1,0 +1,2 @@
+# SSA
+SoftServe academy tasks
